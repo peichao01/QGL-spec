@@ -12,7 +12,7 @@
   "social_media_url": "https://twitter.com/Mapbox",
   "documentation_url": "https://www.mapbox.com/ios-sdk/",
   "source": {
-    "http": "https://raw.githubusercontent.com/peichao01/QGL-spec/master/Mapbox-iOS-SDK/1.6.0/Mapbox-iOS-SDK-1.6.0.zip",
+    "http": "https://raw.githubusercontent.com/peichao01/QGL-spec-assets/master/Mapbox-iOS-SDK/1.6.0/Mapbox-iOS-SDK-1.6.0.zip",
     "flatten": true
   },
   "platforms": {
