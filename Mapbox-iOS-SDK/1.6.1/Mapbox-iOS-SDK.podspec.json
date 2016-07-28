@@ -3,14 +3,13 @@
   "version": "1.6.1",
   "summary": "An open source toolset for building mapping applications for iOS devices.",
   "description": "An open source toolset for building mapping applications for iOS devices with great flexibility for visual styling, offline use, and customizability.",
-  "homepage": "https://www.mapbox.com/ios-sdk",
+  "homepage": "https://mapbox.com/mapbox-ios-sdk",
   "license": "BSD",
   "authors": {
     "Mapbox": "mobile@mapbox.com"
   },
   "screenshots": "https://raw.githubusercontent.com/mapbox/mapbox-gl-native/master/ios/screenshot.png",
   "social_media_url": "https://twitter.com/Mapbox",
-  "documentation_url": "https://www.mapbox.com/ios-sdk/",
   "source": {
     "http": "https://raw.githubusercontent.com/peichao01/QGL-spec-assets/master/Mapbox-iOS-SDK/1.6.1/Mapbox-iOS-SDK-1.6.1.zip",
     "flatten": true
