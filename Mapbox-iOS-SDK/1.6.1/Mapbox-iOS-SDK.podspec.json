@@ -11,8 +11,8 @@
   "screenshots": "https://raw.githubusercontent.com/mapbox/mapbox-gl-native/master/ios/screenshot.png",
   "social_media_url": "https://twitter.com/Mapbox",
   "source": {
-    "http": "https://raw.githubusercontent.com/peichao01/QGL-spec-assets/master/Mapbox-iOS-SDK/1.6.1/Mapbox-iOS-SDK-1.6.1.zip",
-    "flatten": true
+    "git": "https://github.com/peichao01/Mapbox-iOS-SDK.git",
+    "tag": "1.6.1"
   },
   "platforms": {
     "ios": "5.0"
